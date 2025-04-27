@@ -29,4 +29,9 @@ Ensure you have the following installed on your system:
    ```bash
    git clone https://github.com/hazriennurqistina/floristShop.git
 
-   
+## Contact 📬
+
+For any inquiries, feel free to reach out:
+
+- **Email**: [hazriennurqistina@gmail.com](mailto:hazriennurqistina@gmail.com)
+- **GitHub**: [@hazriennurqistina](https://github.com/hazriennurqistina)   
