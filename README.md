@@ -1,4 +1,4 @@
-# FloristShop 🌸
+# Florist Shop Management System 🌸
 
 **Web-Based Florist Management System 2024**
 
